@@ -5,3 +5,4 @@ This repo does not cointains solutions of Project Euler's but useful programming
 
 See https://projecteuler.net/ and enjoy solving the problems.
 
+See example jpg image in repo.
